@@ -1,0 +1,8 @@
+streamlit==1.22.0
+plotly==5.13.1
+pycaret==3.0.4
+ydata-profiling==4.6.0
+pandas==1.5.3
+streamlit-pandas-profiling==0.1.3
+joblib==1.2.0
+streamlit
